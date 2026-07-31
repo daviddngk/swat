@@ -1,0 +1,11 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - numpy=2.2.5
+  - ortools-python=9.15
+  - pandas=2.3.3
+  - pydeck=0.9.1
+  - python=3.10.*
+  - snowflake-snowpark-python=
+  - streamlit=1.52.2
